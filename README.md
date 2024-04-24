@@ -28,31 +28,9 @@ JDK e IDE NetBeans.
 Equipamentos: Computador com JDK e NetBeans instalados.
 
 # Resultados da Execução
-![Screenshot 2024-04-21 184840](https://github.com/Navesz/Iniciando-o-caminho-pelo-Java/assets/58537948/f2a0323a-aa27-4dcb-b168-6b2d57bfe7c7)
+![image](https://github.com/Navesz/Iniciando-o-caminho-pelo-Java-1/assets/58537948/f8fad563-f0d8-4b47-9cfd-9e1fae2a92db)
 
-run:
-Dados de Pessoa Fisica Armazenados.
-Dados de Pessoa Fisica Recuperados.
-Id: 1
-Nome: Ana
-CPF: 11111111111
-Idade: 25
-Id: 2
-Nome: Carlos
-CPF: 22222222222
-Idade: 52
-Dados de Pessoa Juridica Armazenados.
-Dados de Pessoa Juridica Recuperados.
-Id: 3
-Nome: XPTO Sales
-CNPJ: 33333333333333
-Id: 4
-Nome: XPTO Solutions
-CNPJ: 44444444444444
-BUILD SUCCESSFUL (total time: 0 seconds)
-
-Análise e Conclusão
-
+# Análise e Conclusão
 1. Elementos Estáticos e o Método Main:
 Elementos estáticos, como campos estáticos (variáveis) e métodos estáticos, são associados à classe em que são declarados, ao invés de a uma instância específica de uma classe. Isso significa que eles podem ser acessados diretamente através do nome da classe. O método `main` é declarado como estático porque é o ponto de entrada do programa e deve ser acessível pelo ambiente de execução do Java sem a necessidade de instanciar a classe, o que facilita o início da execução do programa.
 
